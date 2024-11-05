@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepak Kumar!
 
-<!--
-**coderdsraj001/coderdsraj001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Python and Django developer with a keen interest in exploring the latest technologies to create innovative solutions. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👀 About Me
+
+- 🚀 I’m constantly learning and improving my skills in **Python** and **Django** to build scalable and efficient web applications.
+- 💡 I enjoy diving into new frameworks and tools to stay up-to-date with modern development practices.
+- 📈 I'm particularly interested in working on projects that involve **web development**, **API integration**.
+
+---
+
+### 🌱 Currently Learning
+
+I'm expanding my knowledge in:
+- 🧩 Django (Backend Development)
+- 🌐 Frontend technologies to enhance user experience
+
+---
+
+### 📫 Let's Connect!
+
+- **GitHub**: [coderdsraj001](https://github.com/coderdsraj001)
+- **Email**: csdsraj2050@gmail.com 
+
+---
+
+I'm always open to collaborating on **Python**, **Django**, and **development projects**. Let's build something amazing together! 💻✨
