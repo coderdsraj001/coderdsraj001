@@ -16,7 +16,7 @@ I'm a passionate Python and Django developer with a keen interest in exploring t
 
 I'm expanding my knowledge in:
 - 🧩 Django (Backend Development)
-- 🌐 Frontend technologies to enhance user experience
+- 🌐 AI technologies.
 
 ---
 
